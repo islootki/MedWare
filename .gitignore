@@ -1,0 +1,10 @@
+/log_dir/
+/.idea/MedWare.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/utils/orc_engine.py
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+*.pyc
